@@ -1,0 +1,47 @@
+.titulo{
+	width: 896px;
+	height: 60px;
+	background-color: orange;
+	border: 2px solid black;
+	text-align: center;
+	overflow: hidden;
+}
+.antes{
+	width: 268px;
+	height: 480px;
+	border-left: 2px solid black;
+	text-align: center;
+	font-size: 20px;
+	float: left;
+	overflow: hidden;
+}
+.monopoly{
+	width: 356px;
+	height: 480px;
+	border-left:2px solid black;
+	border-right: 2px solid black;
+	text-align: center;
+	font-size: 23px;
+	float: left;
+}
+.ahora{
+	width: 268px;
+	height: 480px;
+	border-right: 2px solid black;
+	text-align: center;
+	font-size: 20px;
+	overflow: hidden;
+}
+.pie{
+	width: 896px;
+	height: 60px;
+	background-color: orange;
+	border: 2px solid black;
+	overflow: hidden;
+	text-align: center;
+	font-size: 20px;
+}
+img{
+	width: 250px;
+	height: 200px;
+}
